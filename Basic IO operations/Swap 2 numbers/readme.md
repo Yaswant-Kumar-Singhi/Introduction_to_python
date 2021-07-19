@@ -34,9 +34,3 @@ Explanation For Sample Input 2:
 The output of the above test case is  6 5 for the first test case.
 The output of the 2nd test case is 8 7.
 
-`
-def swap(a, b):
-    # Write your coder here.
-    return b,a
-    
-`
