@@ -4,6 +4,6 @@
 
 ##### Variables
 
-Let us get familiar with Variables for now.<a> Click here!</a> to know more about.
+Let us get familiar with Variables for now.<a href="https://github.com/Yaswant-Kumar-Singhi/Introduction_to_python/blob/main/Variable%20and%20Data%20Type/Variable.md"> Click here!</a> to know more about.
 
 ##### Data Types
