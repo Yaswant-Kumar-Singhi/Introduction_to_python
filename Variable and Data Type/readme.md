@@ -4,5 +4,6 @@
 
 ##### Variables
 
+Let us get familiar with Variables for now.<a> Click here!</a> to know more about.
 
 ##### Data Types
